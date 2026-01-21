@@ -26,3 +26,5 @@ Why is attrition rate an important KPI?
 What does job satisfaction show?
 
 How does this dashboard help HR?
+
+# Dashboard Interaction <a href="https://github.com/Arshad83-creator/HR-Analytical-Dashboard/blob/main/Screenshot%202026-01-21%20233039.png">view Dashboard</a>
