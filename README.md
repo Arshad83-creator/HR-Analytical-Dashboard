@@ -1,4 +1,4 @@
-#HR Analytics Dashboard using Power BI
+**#HR Analytics Dashboard using Power BI**
 
 
 ##Project Objective (Main Objective)
