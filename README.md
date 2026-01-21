@@ -31,3 +31,7 @@ How does this dashboard help HR?
 
 ##Dashboard
 https://github.com/Arshad83-creator/HR-Analytical-Dashboard/blob/main/Screenshot%202026-01-21%20233039.png
+
+## Conclusion
+
+The HR Analytics Dashboard provides key insights into employee attrition, workforce distribution, and job satisfaction. With an attrition rate of 16.12%, the analysis highlights higher attrition in specific departments and age groups. The dashboard enables HR teams to make data-driven decisions to improve employee retention, satisfaction, and workforce planning.
